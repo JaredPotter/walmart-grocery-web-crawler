@@ -61,3 +61,5 @@ typings/
 .next
 
 thumbnails/
+
+.DS_Store
