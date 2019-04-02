@@ -1,0 +1,15 @@
+{
+    "name": "walmart-grocery-web-crawler",
+    "description": "Walmart Grocery Web Crawler",
+    "version": "1.0.0",
+    "engines": {
+        "node": ">=8"
+    },
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "i": "^0.3.6",
+        "npm": "^6.9.0",
+        "puppeteer": "^1.11.0",
+        "uuid": "^3.3.2"
+    }
+}
